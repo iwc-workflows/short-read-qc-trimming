@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-12-08T09:07:01.604402",
+            "datePublished": "2026-02-19T18:25:40.269148",
             "hasPart": [
                 {
                     "@id": "short-read-quality-control-and-trimming.ga"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/short-read-qc-trimming",
-            "version": "0.2"
+            "version": "0.3"
         },
         {
             "@id": "#galaxy",
@@ -146,7 +146,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.33"
+            "engineVersion": ">=0.75.37"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
