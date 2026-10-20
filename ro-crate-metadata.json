@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-19T14:17:50.009005",
+            "datePublished": "2026-10-20T23:52:49.487465",
             "hasPart": [
                 {
                     "@id": "short-read-quality-control-and-trimming.ga"
@@ -68,6 +68,12 @@
                 },
                 {
                     "@id": "https://orcid.org/0000-0003-2982-388X"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0002-3602-7884"
+                },
+                {
+                    "@id": "https://github.com/usegalaxy-eu/FAIRyMAGs"
                 }
             ],
             "name": "short-read-qc-trimming/main",
@@ -75,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/short-read-qc-trimming",
-            "version": "0.5"
+            "version": "0.6"
         },
         {
             "@id": "#galaxy",
@@ -98,6 +104,16 @@
             "@id": "https://orcid.org/0000-0003-2982-388X",
             "@type": "Person",
             "name": "Paul Zierep"
+        },
+        {
+            "@id": "https://orcid.org/0000-0002-3602-7884",
+            "@type": "Person",
+            "name": "Mina Hojat Ansari"
+        },
+        {
+            "@id": "https://github.com/usegalaxy-eu/FAIRyMAGs",
+            "@type": "Organization",
+            "name": "FAIRyMAGs consortium"
         },
         {
             "@id": "README.md",
