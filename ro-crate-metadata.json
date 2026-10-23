@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-20T23:52:49.487465",
+            "datePublished": "2026-10-23T12:06:30.025735",
             "hasPart": [
                 {
                     "@id": "short-read-quality-control-and-trimming.ga"
@@ -81,7 +81,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/short-read-qc-trimming",
-            "version": "0.6"
+            "version": "0.7"
         },
         {
             "@id": "#galaxy",
